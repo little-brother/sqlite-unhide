@@ -1,0 +1,2 @@
+Text with 2 byte length type
+"books" 2 rows (2, 5)

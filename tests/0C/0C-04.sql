@@ -29,18 +29,18 @@ INSERT INTO users
 	(50007, 'Rudolf', 'Schumacher'),
 	(50008, 'Adrian', 'Stein'),
 	(50009, 'Paula', 'Fuchs'),
-	(50010, 'Jessica', 'Gunther');
+	(50010, 'Jessica', 'Günther');
 
 INSERT INTO members 
 	(mid, mname, msurname)
 	VALUES
 	(20001, 'Johannes', 'Neumann'),
-	(20002, 'Kai', 'Kramer'),
+	(20002, 'Kai', 'Krämer'),
 	(20003, 'Sandra', 'Heinrich'),
-	(20004, 'Simon', 'Schroder'),
+	(20004, 'Simon', 'Schröder'),
 	(20005, 'Marlene', 'Albrecht'),
 	(20006, 'Silke', 'Winter'),
-	(20007, 'Herbert', 'Schroder'),
+	(20007, 'Herbert', 'Schröder'),
 	(20008, 'Julius', 'Berger'),
 	(20009, 'Nadine', 'Bergmann'),
 	(20010, 'Nico', 'Arnold');
@@ -56,7 +56,7 @@ INSERT INTO users
 	(50016, 'Marlene', 'Busch'),
 	(50017, 'Ben', 'Busch'),
 	(50018, 'Lars', 'Werner'),
-	(50019, 'Irma', 'Kramer'),
+	(50019, 'Irma', 'Krämer'),
 	(50020, 'Martina', 'Bauer');
 
 INSERT INTO members 
@@ -64,7 +64,7 @@ INSERT INTO members
 	VALUES
 	(20011, 'Jannik', 'Meier'),
 	(20012, 'Wilhelm', 'Schulte'),
-	(20013, 'Florian', 'Kuhn'),
+	(20013, 'Florian', 'Kühn'),
 	(20014, 'Philipp', 'Bauer'),
 	(20015, 'Lea', 'Otto'),
 	(20016, 'Andre', 'Werner'),

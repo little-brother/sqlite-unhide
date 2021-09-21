@@ -1,0 +1,2 @@
+The first column is FLOAT
+"discounts" 3 rows (123456789.1234, 11.11, 999999999.99992), 1 row is missing (123)

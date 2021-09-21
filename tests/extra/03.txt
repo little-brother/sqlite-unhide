@@ -1,0 +1,2 @@
+The first column is INTEGER PRIMARY KEY, therefore id is stored in rowid
+"books" 3 rows (3, 4, 32000000)

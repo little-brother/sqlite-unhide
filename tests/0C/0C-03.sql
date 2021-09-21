@@ -33,7 +33,7 @@ INSERT INTO users
 	(20017, 'Nele', 'Baumann'),
 	(20018, 'Anton', 'Weber'),
 	(20019, 'Simon', 'Schulze'),
-	(20020, 'Yvonne', 'Weib');
+	(20020, 'Yvonne', 'Weiß');
 
 PRAGMA secure_delete=0;
 PRAGMA secure_delete;

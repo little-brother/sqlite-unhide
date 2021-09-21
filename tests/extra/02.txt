@@ -1,0 +1,2 @@
+Detect generalized types by data if the table doesn't have them in DDL
+"t" with types "ntfi" (4) and 2 rows (2, 3)

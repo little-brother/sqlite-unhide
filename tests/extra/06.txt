@@ -1,0 +1,2 @@
+The first column is INTEGER but non-PRIMARY KEY
+"employees" 2 rows (256, 32000000000)

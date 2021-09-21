@@ -1,0 +1,2 @@
+The first column is TEXT
+"goods" 2 rows (Simple spoon, Mi Kettle)

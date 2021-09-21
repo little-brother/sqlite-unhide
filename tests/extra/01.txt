@@ -1,0 +1,2 @@
+sqlite_master as non-single leaf page
+4 tables (t, t2, t3, t4)
