@@ -1,5 +1,6 @@
 **unhide** is a console tool to recovery deleted rows from SQLite3 databases.<br>
 Technical background is described in [this post](https://habr.com/ru/post/575090/) (russian).<br>
+The tool is also available as a [Total Commander plugin](http://totalcmd.net/plugring/unhide-wlx.html).<br>    
 
 |[**Download the latest version**](https://github.com/little-brother/sqlite-unhide/releases/latest)|
 |-------------------------------------------------------------------------------------------|
